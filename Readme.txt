@@ -1,10 +1,4 @@
-Firstly let us introduce ourselves;
-
-1-Muhammad Ali 21L-5463
-2-Suleiman Asif 21L-1818
-3-Talha Dogar 21L-7559
-
-Now lets move to our project.
+lets move to our project.
 
 1- We wont tell how it is happeing, there(you may check the code).
 
@@ -28,3 +22,4 @@ Now lets move to our project.
 		1- Respective signals of roads will turn on one by one moving from west to north to east to south.
 
 		2- Two opposite roads will have their signals lightened at a time.
+
